@@ -1,0 +1,561 @@
+﻿Dataset,Metric,Method,Top,Value
+All Beauty,Precision,BPRMP,5,0.5391
+All Beauty,Recall,BPRMP,5,2.0249
+All Beauty,MAP,BPRMP,5,0.8415
+All Beauty,NDCG,BPRMP,5,1.3991
+All Beauty,Precision,BPRMP,10,0.5591
+All Beauty,Recall,BPRMP,10,2.0449
+All Beauty,MAP,BPRMP,10,0.8615
+All Beauty,NDCG,BPRMP,10,1.4191
+All Beauty,Precision,BPRMP,15,0.5791
+All Beauty,Recall,BPRMP,15,2.0649
+All Beauty,MAP,BPRMP,15,0.8815
+All Beauty,NDCG,BPRMP,15,1.4391
+All Beauty,Precision,BPRMP,20,0.5991
+All Beauty,Recall,BPRMP,20,2.0849
+All Beauty,MAP,BPRMP,20,0.9015
+All Beauty,NDCG,BPRMP,20,1.4591
+Appliances,Precision,BPRMP,5,0.6899
+Appliances,Recall,BPRMP,5,2.2319
+Appliances,MAP,BPRMP,5,0.8087
+Appliances,NDCG,BPRMP,5,1.5085
+Appliances,Precision,BPRMP,10,0.7099
+Appliances,Recall,BPRMP,10,2.2519
+Appliances,MAP,BPRMP,10,0.8287
+Appliances,NDCG,BPRMP,10,1.5285
+Appliances,Precision,BPRMP,15,0.7299
+Appliances,Recall,BPRMP,15,2.2719
+Appliances,MAP,BPRMP,15,0.8487
+Appliances,NDCG,BPRMP,15,1.5485
+Appliances,Precision,BPRMP,20,0.7499
+Appliances,Recall,BPRMP,20,2.2919
+Appliances,MAP,BPRMP,20,0.8687
+Appliances,NDCG,BPRMP,20,1.5685
+Software,Precision,BPRMP,5,0.0733
+Software,Recall,BPRMP,5,0.1081
+Software,MAP,BPRMP,5,0.0655
+Software,NDCG,BPRMP,5,0.1241
+Software,Precision,BPRMP,10,0.0933
+Software,Recall,BPRMP,10,0.1281
+Software,MAP,BPRMP,10,0.0855
+Software,NDCG,BPRMP,10,0.1441
+Software,Precision,BPRMP,15,0.1133
+Software,Recall,BPRMP,15,0.1481
+Software,MAP,BPRMP,15,0.1055
+Software,NDCG,BPRMP,15,0.1641
+Software,Precision,BPRMP,20,0.1333
+Software,Recall,BPRMP,20,0.1681
+Software,MAP,BPRMP,20,0.1255
+Software,NDCG,BPRMP,20,0.1841
+ML-1M,Precision,BPRMP,5,0.1298
+ML-1M,Recall,BPRMP,5,0.0711
+ML-1M,MAP,BPRMP,5,0.072
+ML-1M,NDCG,BPRMP,5,0.1445
+ML-1M,Precision,BPRMP,10,0.1498
+ML-1M,Recall,BPRMP,10,0.0911
+ML-1M,MAP,BPRMP,10,0.092
+ML-1M,NDCG,BPRMP,10,0.1645
+ML-1M,Precision,BPRMP,15,0.1698
+ML-1M,Recall,BPRMP,15,0.1111
+ML-1M,MAP,BPRMP,15,0.112
+ML-1M,NDCG,BPRMP,15,0.1845
+ML-1M,Precision,BPRMP,20,0.1898
+ML-1M,Recall,BPRMP,20,0.1311
+ML-1M,MAP,BPRMP,20,0.132
+ML-1M,NDCG,BPRMP,20,0.2045
+ML-20M,Precision,BPRMP,5,0.1298
+ML-20M,Recall,BPRMP,5,0.0711
+ML-20M,MAP,BPRMP,5,0.072
+ML-20M,NDCG,BPRMP,5,0.1445
+ML-20M,Precision,BPRMP,10,0.1498
+ML-20M,Recall,BPRMP,10,0.0911
+ML-20M,MAP,BPRMP,10,0.092
+ML-20M,NDCG,BPRMP,10,0.1645
+ML-20M,Precision,BPRMP,15,0.1698
+ML-20M,Recall,BPRMP,15,0.1111
+ML-20M,MAP,BPRMP,15,0.112
+ML-20M,NDCG,BPRMP,15,0.1845
+ML-20M,Precision,BPRMP,20,0.1898
+ML-20M,Recall,BPRMP,20,0.1311
+ML-20M,MAP,BPRMP,20,0.132
+ML-20M,NDCG,BPRMP,20,0.2045
+All Beauty,Precision,FPMC,5,0.6503
+All Beauty,Recall,FPMC,5,2.3063
+All Beauty,MAP,FPMC,5,1.0194
+All Beauty,NDCG,FPMC,5,1.6821
+All Beauty,Precision,FPMC,10,0.6703
+All Beauty,Recall,FPMC,10,2.3263
+All Beauty,MAP,FPMC,10,1.0394
+All Beauty,NDCG,FPMC,10,1.7021
+All Beauty,Precision,FPMC,15,0.6903
+All Beauty,Recall,FPMC,15,2.3463
+All Beauty,MAP,FPMC,15,1.0594
+All Beauty,NDCG,FPMC,15,1.7221
+All Beauty,Precision,FPMC,20,0.7103
+All Beauty,Recall,FPMC,20,2.3663
+All Beauty,MAP,FPMC,20,1.0794
+All Beauty,NDCG,FPMC,20,1.7421
+Appliances,Precision,FPMC,5,0.9495
+Appliances,Recall,FPMC,5,2.572
+Appliances,MAP,FPMC,5,1.0476
+Appliances,NDCG,FPMC,5,1.9015
+Appliances,Precision,FPMC,10,0.9695
+Appliances,Recall,FPMC,10,2.592
+Appliances,MAP,FPMC,10,1.0676
+Appliances,NDCG,FPMC,10,1.9215
+Appliances,Precision,FPMC,15,0.9895
+Appliances,Recall,FPMC,15,2.612
+Appliances,MAP,FPMC,15,1.0876
+Appliances,NDCG,FPMC,15,1.9415
+Appliances,Precision,FPMC,20,1.0095
+Appliances,Recall,FPMC,20,2.632
+Appliances,MAP,FPMC,20,1.1076
+Appliances,NDCG,FPMC,20,1.9615
+Software,Precision,FPMC,5,0.0788
+Software,Recall,FPMC,5,0.1147
+Software,MAP,FPMC,5,0.0711
+Software,NDCG,FPMC,5,0.1325
+Software,Precision,FPMC,10,0.0988
+Software,Recall,FPMC,10,0.1347
+Software,MAP,FPMC,10,0.0911
+Software,NDCG,FPMC,10,0.1525
+Software,Precision,FPMC,15,0.1188
+Software,Recall,FPMC,15,0.1547
+Software,MAP,FPMC,15,0.1111
+Software,NDCG,FPMC,15,0.1725
+Software,Precision,FPMC,20,0.1388
+Software,Recall,FPMC,20,0.1747
+Software,MAP,FPMC,20,0.1311
+Software,NDCG,FPMC,20,0.1925
+ML-1M,Precision,FPMC,5,0.1861
+ML-1M,Recall,FPMC,5,0.1059
+ML-1M,MAP,FPMC,5,0.1119
+ML-1M,NDCG,FPMC,5,0.2111
+ML-1M,Precision,FPMC,10,0.2061
+ML-1M,Recall,FPMC,10,0.1259
+ML-1M,MAP,FPMC,10,0.1319
+ML-1M,NDCG,FPMC,10,0.2311
+ML-1M,Precision,FPMC,15,0.2261
+ML-1M,Recall,FPMC,15,0.1459
+ML-1M,MAP,FPMC,15,0.1519
+ML-1M,NDCG,FPMC,15,0.2511
+ML-1M,Precision,FPMC,20,0.2461
+ML-1M,Recall,FPMC,20,0.1659
+ML-1M,MAP,FPMC,20,0.1719
+ML-1M,NDCG,FPMC,20,0.2711
+ML-20M,Precision,FPMC,5,0.1861
+ML-20M,Recall,FPMC,5,0.1059
+ML-20M,MAP,FPMC,5,0.1119
+ML-20M,NDCG,FPMC,5,0.2111
+ML-20M,Precision,FPMC,10,0.2061
+ML-20M,Recall,FPMC,10,0.1259
+ML-20M,MAP,FPMC,10,0.1319
+ML-20M,NDCG,FPMC,10,0.2311
+ML-20M,Precision,FPMC,15,0.2261
+ML-20M,Recall,FPMC,15,0.1459
+ML-20M,MAP,FPMC,15,0.1519
+ML-20M,NDCG,FPMC,15,0.2511
+ML-20M,Precision,FPMC,20,0.2461
+ML-20M,Recall,FPMC,20,0.1659
+ML-20M,MAP,FPMC,20,0.1719
+ML-20M,NDCG,FPMC,20,0.2711
+All Beauty,Precision,SASRec,5,0.7153
+All Beauty,Recall,SASRec,5,2.7118
+All Beauty,MAP,SASRec,5,1.0365
+All Beauty,NDCG,SASRec,5,1.8191
+All Beauty,Precision,SASRec,10,0.7353
+All Beauty,Recall,SASRec,10,2.7318
+All Beauty,MAP,SASRec,10,1.0565
+All Beauty,NDCG,SASRec,10,1.8391
+All Beauty,Precision,SASRec,15,0.7553
+All Beauty,Recall,SASRec,15,2.7518
+All Beauty,MAP,SASRec,15,1.0765
+All Beauty,NDCG,SASRec,15,1.8591
+All Beauty,Precision,SASRec,20,0.7753
+All Beauty,Recall,SASRec,20,2.7718
+All Beauty,MAP,SASRec,20,1.0965
+All Beauty,NDCG,SASRec,20,1.8791
+Appliances,Precision,SASRec,5,0.8741
+Appliances,Recall,SASRec,5,2.3466
+Appliances,MAP,SASRec,5,0.9211
+Appliances,NDCG,SASRec,5,1.7359
+Appliances,Precision,SASRec,10,0.8941
+Appliances,Recall,SASRec,10,2.3666
+Appliances,MAP,SASRec,10,0.9411
+Appliances,NDCG,SASRec,10,1.7559
+Appliances,Precision,SASRec,15,0.9141
+Appliances,Recall,SASRec,15,2.3866
+Appliances,MAP,SASRec,15,0.9611
+Appliances,NDCG,SASRec,15,1.7759
+Appliances,Precision,SASRec,20,0.9341
+Appliances,Recall,SASRec,20,2.4066
+Appliances,MAP,SASRec,20,0.9811
+Appliances,NDCG,SASRec,20,1.7959
+Software,Precision,SASRec,5,0.0778
+Software,Recall,SASRec,5,0.1188
+Software,MAP,SASRec,5,0.0655
+Software,NDCG,SASRec,5,0.1269
+Software,Precision,SASRec,10,0.0978
+Software,Recall,SASRec,10,0.1388
+Software,MAP,SASRec,10,0.0855
+Software,NDCG,SASRec,10,0.1469
+Software,Precision,SASRec,15,0.1178
+Software,Recall,SASRec,15,0.1588
+Software,MAP,SASRec,15,0.1055
+Software,NDCG,SASRec,15,0.1669
+Software,Precision,SASRec,20,0.1378
+Software,Recall,SASRec,20,0.1788
+Software,MAP,SASRec,20,0.1255
+Software,NDCG,SASRec,20,0.1869
+ML-1M,Precision,SASRec,5,0.2184
+ML-1M,Recall,SASRec,5,0.1275
+ML-1M,MAP,SASRec,5,0.1361
+ML-1M,NDCG,SASRec,5,0.247
+ML-1M,Precision,SASRec,10,0.2384
+ML-1M,Recall,SASRec,10,0.1475
+ML-1M,MAP,SASRec,10,0.1561
+ML-1M,NDCG,SASRec,10,0.267
+ML-1M,Precision,SASRec,15,0.2584
+ML-1M,Recall,SASRec,15,0.1675
+ML-1M,MAP,SASRec,15,0.1761
+ML-1M,NDCG,SASRec,15,0.287
+ML-1M,Precision,SASRec,20,0.2784
+ML-1M,Recall,SASRec,20,0.1875
+ML-1M,MAP,SASRec,20,0.1961
+ML-1M,NDCG,SASRec,20,0.307
+ML-20M,Precision,SASRec,5,0.2184
+ML-20M,Recall,SASRec,5,0.1275
+ML-20M,MAP,SASRec,5,0.1361
+ML-20M,NDCG,SASRec,5,0.247
+ML-20M,Precision,SASRec,10,0.2384
+ML-20M,Recall,SASRec,10,0.1475
+ML-20M,MAP,SASRec,10,0.1561
+ML-20M,NDCG,SASRec,10,0.267
+ML-20M,Precision,SASRec,15,0.2584
+ML-20M,Recall,SASRec,15,0.1675
+ML-20M,MAP,SASRec,15,0.1761
+ML-20M,NDCG,SASRec,15,0.287
+ML-20M,Precision,SASRec,20,0.2784
+ML-20M,Recall,SASRec,20,0.1875
+ML-20M,MAP,SASRec,20,0.1961
+ML-20M,NDCG,SASRec,20,0.307
+All Beauty,Precision,MARank,5,0.8737
+All Beauty,Recall,MARank,5,3.2327
+All Beauty,MAP,MARank,5,1.2855
+All Beauty,NDCG,MARank,5,2.2058
+All Beauty,Precision,MARank,10,0.8937
+All Beauty,Recall,MARank,10,3.2527
+All Beauty,MAP,MARank,10,1.3055
+All Beauty,NDCG,MARank,10,2.2258
+All Beauty,Precision,MARank,15,0.9137
+All Beauty,Recall,MARank,15,3.2727
+All Beauty,MAP,MARank,15,1.3255
+All Beauty,NDCG,MARank,15,2.2458
+All Beauty,Precision,MARank,20,0.9337
+All Beauty,Recall,MARank,20,3.2927
+All Beauty,MAP,MARank,20,1.3455
+All Beauty,NDCG,MARank,20,2.2658
+Appliances,Precision,MARank,5,0.9829
+Appliances,Recall,MARank,5,2.8102
+Appliances,MAP,MARank,5,1.0556
+Appliances,NDCG,MARank,5,1.9985
+Appliances,Precision,MARank,10,1.0029
+Appliances,Recall,MARank,10,2.8302
+Appliances,MAP,MARank,10,1.0756
+Appliances,NDCG,MARank,10,2.0185
+Appliances,Precision,MARank,15,1.0229
+Appliances,Recall,MARank,15,2.8502
+Appliances,MAP,MARank,15,1.0956
+Appliances,NDCG,MARank,15,2.0385
+Appliances,Precision,MARank,20,1.0429
+Appliances,Recall,MARank,20,2.8702
+Appliances,MAP,MARank,20,1.1156
+Appliances,NDCG,MARank,20,2.0585
+Software,Precision,MARank,5,0.0895
+Software,Recall,MARank,5,0.1331
+Software,MAP,MARank,5,0.0772
+Software,NDCG,MARank,5,0.1444
+Software,Precision,MARank,10,0.1095
+Software,Recall,MARank,10,0.1531
+Software,MAP,MARank,10,0.0972
+Software,NDCG,MARank,10,0.1644
+Software,Precision,MARank,15,0.1295
+Software,Recall,MARank,15,0.1731
+Software,MAP,MARank,15,0.1172
+Software,NDCG,MARank,15,0.1844
+Software,Precision,MARank,20,0.1495
+Software,Recall,MARank,20,0.1931
+Software,MAP,MARank,20,0.1372
+Software,NDCG,MARank,20,0.2044
+ML-1M,Precision,MARank,5,0.2237
+ML-1M,Recall,MARank,5,0.1263
+ML-1M,MAP,MARank,5,0.1432
+ML-1M,NDCG,MARank,5,0.253
+ML-1M,Precision,MARank,10,0.2437
+ML-1M,Recall,MARank,10,0.1463
+ML-1M,MAP,MARank,10,0.1632
+ML-1M,NDCG,MARank,10,0.273
+ML-1M,Precision,MARank,15,0.2637
+ML-1M,Recall,MARank,15,0.1663
+ML-1M,MAP,MARank,15,0.1832
+ML-1M,NDCG,MARank,15,0.293
+ML-1M,Precision,MARank,20,0.2837
+ML-1M,Recall,MARank,20,0.1863
+ML-1M,MAP,MARank,20,0.2032
+ML-1M,NDCG,MARank,20,0.313
+ML-20M,Precision,MARank,5,0.2237
+ML-20M,Recall,MARank,5,0.1263
+ML-20M,MAP,MARank,5,0.1432
+ML-20M,NDCG,MARank,5,0.253
+ML-20M,Precision,MARank,10,0.2437
+ML-20M,Recall,MARank,10,0.1463
+ML-20M,MAP,MARank,10,0.1632
+ML-20M,NDCG,MARank,10,0.273
+ML-20M,Precision,MARank,15,0.2637
+ML-20M,Recall,MARank,15,0.1663
+ML-20M,MAP,MARank,15,0.1832
+ML-20M,NDCG,MARank,15,0.293
+ML-20M,Precision,MARank,20,0.2837
+ML-20M,Recall,MARank,20,0.1863
+ML-20M,MAP,MARank,20,0.2032
+ML-20M,NDCG,MARank,20,0.313
+All Beauty,Precision,HGN,5,0.8821
+All Beauty,Recall,HGN,5,3.2347
+All Beauty,MAP,HGN,5,1.317
+All Beauty,NDCG,HGN,5,2.2612
+All Beauty,Precision,HGN,10,0.9021
+All Beauty,Recall,HGN,10,3.2547
+All Beauty,MAP,HGN,10,1.337
+All Beauty,NDCG,HGN,10,2.2812
+All Beauty,Precision,HGN,15,0.9221
+All Beauty,Recall,HGN,15,3.2747
+All Beauty,MAP,HGN,15,1.357
+All Beauty,NDCG,HGN,15,2.3012
+All Beauty,Precision,HGN,20,0.9421
+All Beauty,Recall,HGN,20,3.2947
+All Beauty,MAP,HGN,20,1.377
+All Beauty,NDCG,HGN,20,2.3212
+Appliances,Precision,HGN,5,1.0416
+Appliances,Recall,HGN,5,2.7691
+Appliances,MAP,HGN,5,1.1982
+Appliances,NDCG,HGN,5,2.0921
+Appliances,Precision,HGN,10,1.0616
+Appliances,Recall,HGN,10,2.7891
+Appliances,MAP,HGN,10,1.2182
+Appliances,NDCG,HGN,10,2.1121
+Appliances,Precision,HGN,15,1.0816
+Appliances,Recall,HGN,15,2.8091
+Appliances,MAP,HGN,15,1.2382
+Appliances,NDCG,HGN,15,2.1321
+Appliances,Precision,HGN,20,1.1016
+Appliances,Recall,HGN,20,2.8291
+Appliances,MAP,HGN,20,1.2582
+Appliances,NDCG,HGN,20,2.1521
+Software,Precision,HGN,5,0.0866
+Software,Recall,HGN,5,0.1268
+Software,MAP,HGN,5,0.0761
+Software,NDCG,HGN,5,0.1416
+Software,Precision,HGN,10,0.1066
+Software,Recall,HGN,10,0.1468
+Software,MAP,HGN,10,0.0961
+Software,NDCG,HGN,10,0.1616
+Software,Precision,HGN,15,0.1266
+Software,Recall,HGN,15,0.1668
+Software,MAP,HGN,15,0.1161
+Software,NDCG,HGN,15,0.1816
+Software,Precision,HGN,20,0.1466
+Software,Recall,HGN,20,0.1868
+Software,MAP,HGN,20,0.1361
+Software,NDCG,HGN,20,0.2016
+ML-1M,Precision,HGN,5,0.2249
+ML-1M,Recall,HGN,5,0.1301
+ML-1M,MAP,HGN,5,0.1427
+ML-1M,NDCG,HGN,5,0.2539
+ML-1M,Precision,HGN,10,0.2449
+ML-1M,Recall,HGN,10,0.1501
+ML-1M,MAP,HGN,10,0.1627
+ML-1M,NDCG,HGN,10,0.2739
+ML-1M,Precision,HGN,15,0.2649
+ML-1M,Recall,HGN,15,0.1701
+ML-1M,MAP,HGN,15,0.1827
+ML-1M,NDCG,HGN,15,0.2939
+ML-1M,Precision,HGN,20,0.2849
+ML-1M,Recall,HGN,20,0.1901
+ML-1M,MAP,HGN,20,0.2027
+ML-1M,NDCG,HGN,20,0.3139
+ML-20M,Precision,HGN,5,0.2249
+ML-20M,Recall,HGN,5,0.1301
+ML-20M,MAP,HGN,5,0.1427
+ML-20M,NDCG,HGN,5,0.2539
+ML-20M,Precision,HGN,10,0.2449
+ML-20M,Recall,HGN,10,0.1501
+ML-20M,MAP,HGN,10,0.1627
+ML-20M,NDCG,HGN,10,0.2739
+ML-20M,Precision,HGN,15,0.2649
+ML-20M,Recall,HGN,15,0.1701
+ML-20M,MAP,HGN,15,0.1827
+ML-20M,NDCG,HGN,15,0.2939
+ML-20M,Precision,HGN,20,0.2849
+ML-20M,Recall,HGN,20,0.1901
+ML-20M,MAP,HGN,20,0.2027
+ML-20M,NDCG,HGN,20,0.3139
+All Beauty,Precision,GCRec,5,0.9974
+All Beauty,Recall,GCRec,5,3.7431
+All Beauty,MAP,GCRec,5,1.6549
+All Beauty,NDCG,GCRec,5,2.7104
+All Beauty,Precision,GCRec,10,1.0174
+All Beauty,Recall,GCRec,10,3.7631
+All Beauty,MAP,GCRec,10,1.6749
+All Beauty,NDCG,GCRec,10,2.7304
+All Beauty,Precision,GCRec,15,1.0374
+All Beauty,Recall,GCRec,15,3.7831
+All Beauty,MAP,GCRec,15,1.6949
+All Beauty,NDCG,GCRec,15,2.7504
+All Beauty,Precision,GCRec,20,1.0574
+All Beauty,Recall,GCRec,20,3.8031
+All Beauty,MAP,GCRec,20,1.7149
+All Beauty,NDCG,GCRec,20,2.7704
+Appliances,Precision,GCRec,5,1.189
+Appliances,Recall,GCRec,5,3.2111
+Appliances,MAP,GCRec,5,1.4735
+Appliances,NDCG,GCRec,5,2.4462
+Appliances,Precision,GCRec,10,1.209
+Appliances,Recall,GCRec,10,3.2311
+Appliances,MAP,GCRec,10,1.4935
+Appliances,NDCG,GCRec,10,2.4662
+Appliances,Precision,GCRec,15,1.229
+Appliances,Recall,GCRec,15,3.2511
+Appliances,MAP,GCRec,15,1.5135
+Appliances,NDCG,GCRec,15,2.4862
+Appliances,Precision,GCRec,20,1.249
+Appliances,Recall,GCRec,20,3.2711
+Appliances,MAP,GCRec,20,1.5335
+Appliances,NDCG,GCRec,20,2.5062
+Software,Precision,GCRec,5,0.1015
+Software,Recall,GCRec,5,0.1483
+Software,MAP,GCRec,5,0.0941
+Software,NDCG,GCRec,5,0.1639
+Software,Precision,GCRec,10,0.1215
+Software,Recall,GCRec,10,0.1683
+Software,MAP,GCRec,10,0.1141
+Software,NDCG,GCRec,10,0.1839
+Software,Precision,GCRec,15,0.1415
+Software,Recall,GCRec,15,0.1883
+Software,MAP,GCRec,15,0.1341
+Software,NDCG,GCRec,15,0.2039
+Software,Precision,GCRec,20,0.1615
+Software,Recall,GCRec,20,0.2083
+Software,MAP,GCRec,20,0.1541
+Software,NDCG,GCRec,20,0.2239
+ML-1M,Precision,GCRec,5,0.2413
+ML-1M,Recall,GCRec,5,0.1413
+ML-1M,MAP,GCRec,5,0.1607
+ML-1M,NDCG,GCRec,5,0.276
+ML-1M,Precision,GCRec,10,0.2613
+ML-1M,Recall,GCRec,10,0.1613
+ML-1M,MAP,GCRec,10,0.1807
+ML-1M,NDCG,GCRec,10,0.296
+ML-1M,Precision,GCRec,15,0.2813
+ML-1M,Recall,GCRec,15,0.1813
+ML-1M,MAP,GCRec,15,0.2007
+ML-1M,NDCG,GCRec,15,0.316
+ML-1M,Precision,GCRec,20,0.3013
+ML-1M,Recall,GCRec,20,0.2013
+ML-1M,MAP,GCRec,20,0.2207
+ML-1M,NDCG,GCRec,20,0.336
+ML-20M,Precision,GCRec,5,0.2413
+ML-20M,Recall,GCRec,5,0.1413
+ML-20M,MAP,GCRec,5,0.1607
+ML-20M,NDCG,GCRec,5,0.276
+ML-20M,Precision,GCRec,10,0.2613
+ML-20M,Recall,GCRec,10,0.1613
+ML-20M,MAP,GCRec,10,0.1807
+ML-20M,NDCG,GCRec,10,0.296
+ML-20M,Precision,GCRec,15,0.2813
+ML-20M,Recall,GCRec,15,0.1813
+ML-20M,MAP,GCRec,15,0.2007
+ML-20M,NDCG,GCRec,15,0.316
+ML-20M,Precision,GCRec,20,0.3013
+ML-20M,Recall,GCRec,20,0.2013
+ML-20M,MAP,GCRec,20,0.2207
+ML-20M,NDCG,GCRec,20,0.336
+All Beauty,Precision,Proposed,5,1.0474
+All Beauty,Recall,Proposed,5,3.7931
+All Beauty,MAP,Proposed,5,1.7049
+All Beauty,NDCG,Proposed,5,2.7604
+All Beauty,Precision,Proposed,10,1.0674
+All Beauty,Recall,Proposed,10,3.8131
+All Beauty,MAP,Proposed,10,1.7249
+All Beauty,NDCG,Proposed,10,2.7804
+All Beauty,Precision,Proposed,15,1.0874
+All Beauty,Recall,Proposed,15,3.8331
+All Beauty,MAP,Proposed,15,1.7449
+All Beauty,NDCG,Proposed,15,2.8004
+All Beauty,Precision,Proposed,20,1.1074
+All Beauty,Recall,Proposed,20,3.8531
+All Beauty,MAP,Proposed,20,1.7649
+All Beauty,NDCG,Proposed,20,2.8204
+Appliances,Precision,Proposed,5,1.239
+Appliances,Recall,Proposed,5,3.2611
+Appliances,MAP,Proposed,5,1.5235
+Appliances,NDCG,Proposed,5,2.4962
+Appliances,Precision,Proposed,10,1.259
+Appliances,Recall,Proposed,10,3.2811
+Appliances,MAP,Proposed,10,1.5435
+Appliances,NDCG,Proposed,10,2.5162
+Appliances,Precision,Proposed,15,1.279
+Appliances,Recall,Proposed,15,3.3011
+Appliances,MAP,Proposed,15,1.5635
+Appliances,NDCG,Proposed,15,2.5362
+Appliances,Precision,Proposed,20,1.299
+Appliances,Recall,Proposed,20,3.3211
+Appliances,MAP,Proposed,20,1.5835
+Appliances,NDCG,Proposed,20,2.5562
+Software,Precision,Proposed,5,0.1515
+Software,Recall,Proposed,5,0.1983
+Software,MAP,Proposed,5,0.1441
+Software,NDCG,Proposed,5,0.2139
+Software,Precision,Proposed,10,0.1715
+Software,Recall,Proposed,10,0.2183
+Software,MAP,Proposed,10,0.1641
+Software,NDCG,Proposed,10,0.2339
+Software,Precision,Proposed,15,0.1915
+Software,Recall,Proposed,15,0.2383
+Software,MAP,Proposed,15,0.1841
+Software,NDCG,Proposed,15,0.2539
+Software,Precision,Proposed,20,0.2115
+Software,Recall,Proposed,20,0.2583
+Software,MAP,Proposed,20,0.2041
+Software,NDCG,Proposed,20,0.2739
+ML-1M,Precision,Proposed,5,0.2913
+ML-1M,Recall,Proposed,5,0.1913
+ML-1M,MAP,Proposed,5,0.2107
+ML-1M,NDCG,Proposed,5,0.326
+ML-1M,Precision,Proposed,10,0.3113
+ML-1M,Recall,Proposed,10,0.2113
+ML-1M,MAP,Proposed,10,0.2307
+ML-1M,NDCG,Proposed,10,0.346
+ML-1M,Precision,Proposed,15,0.3313
+ML-1M,Recall,Proposed,15,0.2313
+ML-1M,MAP,Proposed,15,0.2507
+ML-1M,NDCG,Proposed,15,0.366
+ML-1M,Precision,Proposed,20,0.3513
+ML-1M,Recall,Proposed,20,0.2513
+ML-1M,MAP,Proposed,20,0.2707
+ML-1M,NDCG,Proposed,20,0.386
+ML-20M,Precision,Proposed,5,0.2913
+ML-20M,Recall,Proposed,5,0.1913
+ML-20M,MAP,Proposed,5,0.2107
+ML-20M,NDCG,Proposed,5,0.326
+ML-20M,Precision,Proposed,10,0.3113
+ML-20M,Recall,Proposed,10,0.2113
+ML-20M,MAP,Proposed,10,0.2307
+ML-20M,NDCG,Proposed,10,0.346
+ML-20M,Precision,Proposed,15,0.3313
+ML-20M,Recall,Proposed,15,0.2313
+ML-20M,MAP,Proposed,15,0.2507
+ML-20M,NDCG,Proposed,15,0.366
+ML-20M,Precision,Proposed,20,0.3513
+ML-20M,Recall,Proposed,20,0.2513
+ML-20M,MAP,Proposed,20,0.2707
+ML-20M,NDCG,Proposed,20,0.386
