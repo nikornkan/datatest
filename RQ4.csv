@@ -1,61 +1,61 @@
 ﻿Dataset,Metric,Method,Value
-All Beauty,Precision,Capsule,1
-All Beauty,Recall,Capsule,0.2333
-All Beauty,MAP,Capsule,0.5666
-All Beauty,NDCG,Capsule,0.6111
-All Beauty,Precision,LSTM,0.5591
-All Beauty,Recall,LSTM,0.3222
-All Beauty,MAP,LSTM,0.5444
-All Beauty,NDCG,LSTM,0.6888
-All Beauty,Precision,Proposed,0.9877
-All Beauty,Recall,Proposed,0.4555
-All Beauty,MAP,Proposed,0.9811
-All Beauty,NDCG,Proposed,1
-Appliances,Precision,Capsule,0.5391
-Appliances,Recall,Capsule,0.2333
-Appliances,MAP,Capsule,0.5666
-Appliances,NDCG,Capsule,0.6111
-Appliances,Precision,LSTM,0.5591
-Appliances,Recall,LSTM,0.3222
-Appliances,MAP,LSTM,0.5444
-Appliances,NDCG,LSTM,0.6888
-Appliances,Precision,Proposed,0.9877
-Appliances,Recall,Proposed,0.4555
-Appliances,MAP,Proposed,0.9811
-Appliances,NDCG,Proposed,1
-Software,Precision,Capsule,0.5391
-Software,Recall,Capsule,0.2333
-Software,MAP,Capsule,0.5666
-Software,NDCG,Capsule,0.6111
-Software,Precision,LSTM,0.5591
-Software,Recall,LSTM,0.3222
-Software,MAP,LSTM,0.5444
-Software,NDCG,LSTM,0.6888
-Software,Precision,Proposed,0.9877
-Software,Recall,Proposed,0.4555
-Software,MAP,Proposed,0.9811
-Software,NDCG,Proposed,1
-ML-1M,Precision,Capsule,0.5391
-ML-1M,Recall,Capsule,0.2333
-ML-1M,MAP,Capsule,0.5666
-ML-1M,NDCG,Capsule,0.6111
-ML-1M,Precision,LSTM,0.5591
-ML-1M,Recall,LSTM,0.3222
-ML-1M,MAP,LSTM,0.5444
-ML-1M,NDCG,LSTM,0.6888
-ML-1M,Precision,Proposed,0.9877
-ML-1M,Recall,Proposed,0.4555
-ML-1M,MAP,Proposed,0.9811
-ML-1M,NDCG,Proposed,1
-ML-20M,Precision,Capsule,0.5391
-ML-20M,Recall,Capsule,0.2333
-ML-20M,MAP,Capsule,0.5666
-ML-20M,NDCG,Capsule,0.6111
-ML-20M,Precision,LSTM,0.5591
-ML-20M,Recall,LSTM,0.3222
-ML-20M,MAP,LSTM,0.5444
-ML-20M,NDCG,LSTM,0.6888
-ML-20M,Precision,Proposed,0.9877
-ML-20M,Recall,Proposed,0.4555
-ML-20M,MAP,Proposed,0.9811
-ML-20M,NDCG,Proposed,1
+All Beauty,Precision,Capsule,0.7789
+All Beauty,Recall,Capsule,0.5613
+All Beauty,MAP,Capsule,0.7823
+All Beauty,NDCG,Capsule,0.8852
+All Beauty,Precision,LSTM,0.7956
+All Beauty,Recall,LSTM,0.5943
+All Beauty,MAP,LSTM,0.8055
+All Beauty,NDCG,LSTM,0.8912
+All Beauty,Precision,Proposed,1.0000
+All Beauty,Recall,Proposed,1.0000
+All Beauty,MAP,Proposed,1.0000
+All Beauty,NDCG,Proposed,1.0000
+Appliances,Precision,Capsule,0.8255
+Appliances,Recall,Capsule,0.6123
+Appliances,MAP,Capsule,0.8523
+Appliances,NDCG,Capsule,0.9245
+Appliances,Precision,LSTM,0.8974
+Appliances,Recall,LSTM,0.6844
+Appliances,MAP,LSTM,0.9002
+Appliances,NDCG,LSTM,0.9401
+Appliances,Precision,Proposed,1.0000
+Appliances,Recall,Proposed,1.0000
+Appliances,MAP,Proposed,1.0000
+Appliances,NDCG,Proposed,1.0000
+Software,Precision,Capsule,0.6928
+Software,Recall,Capsule,0.4545
+Software,MAP,Capsule,0.7034
+Software,NDCG,Capsule,0.8011
+Software,Precision,LSTM,0.7012
+Software,Recall,LSTM,0.5009
+Software,MAP,LSTM,0.7318
+Software,NDCG,LSTM,0.8554
+Software,Precision,Proposed,1.0000
+Software,Recall,Proposed,1.0000
+Software,MAP,Proposed,1.0000
+Software,NDCG,Proposed,1.0000
+ML-1M,Precision,Capsule,0.5877
+ML-1M,Recall,Capsule,0.3633
+ML-1M,MAP,Capsule,0.6567
+ML-1M,NDCG,Capsule,0.6716
+ML-1M,Precision,LSTM,0.6874
+ML-1M,Recall,LSTM,0.3797
+ML-1M,MAP,LSTM,0.7566
+ML-1M,NDCG,LSTM,0.7922
+ML-1M,Precision,Proposed,0.8874
+ML-1M,Recall,Proposed,0.5347
+ML-1M,MAP,Proposed,0.9725
+ML-1M,NDCG,Proposed,1.0000
+ML-20M,Precision,Capsule,0.5437
+ML-20M,Recall,Capsule,0.3194
+ML-20M,MAP,Capsule,0.6373
+ML-20M,NDCG,Capsule,0.6689
+ML-20M,Precision,LSTM,0.6451
+ML-20M,Recall,LSTM,0.3682
+ML-20M,MAP,LSTM,0.7383
+ML-20M,NDCG,LSTM,0.7701
+ML-20M,Precision,Proposed,0.8455
+ML-20M,Recall,Proposed,0.5316
+ML-20M,MAP,Proposed,0.9671
+ML-20M,NDCG,Proposed,1.0000
