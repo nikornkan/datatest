@@ -95,7 +95,7 @@ All Beauty,Precision,FPMC,20,0.0101
 All Beauty,Recall,FPMC,20,2.3663
 All Beauty,MAP,FPMC,20,1.0794
 All Beauty,NDCG,FPMC,20,1.7421
-Appliances,Precision,FPMC,5,0.0373
+Appliances,Precision,FPMC,5,0.0193
 Appliances,Recall,FPMC,5,2.572
 Appliances,MAP,FPMC,5,1.0476
 Appliances,NDCG,FPMC,5,1.9015
