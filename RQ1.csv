@@ -1,0 +1,141 @@
+﻿Dataset,Metric,Method,Value
+All Beauty,Precision,BPRMP,0.0091
+All Beauty,Recall,BPRMP,0.0069
+All Beauty,MAP,BPRMP,0.0093
+All Beauty,NDCG,BPRMP,0.0118
+Appliances,Precision,BPRMP,0.0119
+Appliances,Recall,BPRMP,0.0111
+Appliances,MAP,BPRMP,0.0112
+Appliances,NDCG,BPRMP,0.0132
+Software,Precision,BPRMP,0.0093
+Software,Recall,BPRMP,0.0061
+Software,MAP,BPRMP,0.0101
+Software,NDCG,BPRMP,0.0121
+ML-1M,Precision,BPRMP,0.1298
+ML-1M,Recall,BPRMP,0.0711
+ML-1M,MAP,BPRMP,0.0720
+ML-1M,NDCG,BPRMP,0.1521
+ML-20M,Precision,BPRMP,0.1250
+ML-20M,Recall,BPRMP,0.0638
+ML-20M,MAP,BPRMP,0.0521
+ML-20M,NDCG,BPRMP,0.1437
+All Beauty,Precision,FPMC,0.0095
+All Beauty,Recall,FPMC,0.0102
+All Beauty,MAP,FPMC,0.0104
+All Beauty,NDCG,FPMC,0.0125
+Appliances,Precision,FPMC,0.0156
+Appliances,Recall,FPMC,0.0131
+Appliances,MAP,FPMC,0.0114
+Appliances,NDCG,FPMC,0.0151
+Software,Precision,FPMC,0.0118
+Software,Recall,FPMC,0.0106
+Software,MAP,FPMC,0.0112
+Software,NDCG,FPMC,0.0133
+ML-1M,Precision,FPMC,0.1861
+ML-1M,Recall,FPMC,0.1059
+ML-1M,MAP,FPMC,0.1119
+ML-1M,NDCG,FPMC,0.2291
+ML-20M,Precision,FPMC,0.1821
+ML-20M,Recall,FPMC,0.1049
+ML-20M,MAP,FPMC,0.1109
+ML-20M,NDCG,FPMC,0.2201
+All Beauty,Precision,SASRec,0.0111
+All Beauty,Recall,SASRec,0.0178
+All Beauty,MAP,SASRec,0.0123
+All Beauty,NDCG,SASRec,0.0129
+Appliances,Precision,SASRec,0.0212
+Appliances,Recall,SASRec,0.0203
+Appliances,MAP,SASRec,0.0129
+Appliances,NDCG,SASRec,0.0180
+Software,Precision,SASRec,0.0211
+Software,Recall,SASRec,0.0121
+Software,MAP,SASRec,0.0117
+Software,NDCG,SASRec,0.0143
+ML-1M,Precision,SASRec,0.2184
+ML-1M,Recall,SASRec,0.1228
+ML-1M,MAP,SASRec,0.1361
+ML-1M,NDCG,SASRec,0.2470
+ML-20M,Precision,SASRec,0.2038
+ML-20M,Recall,SASRec,0.1213
+ML-20M,MAP,SASRec,0.1307
+ML-20M,NDCG,SASRec,0.2419
+All Beauty,Precision,MARank,0.0121
+All Beauty,Recall,MARank,0.0210
+All Beauty,MAP,MARank,0.0124
+All Beauty,NDCG,MARank,0.0191
+Appliances,Precision,MARank,0.0271
+Appliances,Recall,MARank,0.0208
+Appliances,MAP,MARank,0.0130
+Appliances,NDCG,MARank,0.0195
+Software,Precision,MARank,0.0218
+Software,Recall,MARank,0.0133
+Software,MAP,MARank,0.0127
+Software,NDCG,MARank,0.0182
+ML-1M,Precision,MARank,0.2237
+ML-1M,Recall,MARank,0.1263
+ML-1M,MAP,MARank,0.1432
+ML-1M,NDCG,MARank,0.2530
+ML-20M,Precision,MARank,0.2224
+ML-20M,Recall,MARank,0.1226
+ML-20M,MAP,MARank,0.1425
+ML-20M,NDCG,MARank,0.2498
+All Beauty,Precision,HGN,0.1130
+All Beauty,Recall,HGN,0.0297
+All Beauty,MAP,HGN,0.0132
+All Beauty,NDCG,HGN,0.0216
+Appliances,Precision,HGN,0.1153
+Appliances,Recall,HGN,0.0315
+Appliances,MAP,HGN,0.0168
+Appliances,NDCG,HGN,0.0227
+Software,Precision,HGN,0.1136
+Software,Recall,HGN,0.0268
+Software,MAP,HGN,0.0147
+Software,NDCG,HGN,0.0215
+ML-1M,Precision,HGN,0.2249
+ML-1M,Recall,HGN,0.1301
+ML-1M,MAP,HGN,0.1427
+ML-1M,NDCG,HGN,0.2539
+ML-20M,Precision,HGN,0.2245
+ML-20M,Recall,HGN,0.1239
+ML-20M,MAP,HGN,0.1426
+ML-20M,NDCG,HGN,0.2530
+All Beauty,Precision,GCRec,0.1140
+All Beauty,Recall,GCRec,0.0331
+All Beauty,MAP,GCRec,0.0166
+All Beauty,NDCG,GCRec,0.0271
+Appliances,Precision,GCRec,0.1197
+Appliances,Recall,GCRec,0.0376
+Appliances,MAP,GCRec,0.0180
+Appliances,NDCG,GCRec,0.0296
+Software,Precision,GCRec,0.1141
+Software,Recall,GCRec,0.0373
+Software,MAP,GCRec,0.0154
+Software,NDCG,GCRec,0.0264
+ML-1M,Precision,GCRec,0.2413
+ML-1M,Recall,GCRec,0.1413
+ML-1M,MAP,GCRec,0.1607
+ML-1M,NDCG,GCRec,0.2760
+ML-20M,Precision,GCRec,0.2401
+ML-20M,Recall,GCRec,0.1401
+ML-20M,MAP,GCRec,0.1571
+ML-20M,NDCG,GCRec,0.2736
+All Beauty,Precision,Proposed,1.0000
+All Beauty,Recall,Proposed,1.0000
+All Beauty,MAP,Proposed,1.0000
+All Beauty,NDCG,Proposed,1.0000
+Appliances,Precision,Proposed,1.0000
+Appliances,Recall,Proposed,1.0000
+Appliances,MAP,Proposed,1.0000
+Appliances,NDCG,Proposed,1.0000
+Software,Precision,Proposed,1.0000
+Software,Recall,Proposed,1.0000
+Software,MAP,Proposed,1.0000
+Software,NDCG,Proposed,1.0000
+ML-1M,Precision,Proposed,0.8874
+ML-1M,Recall,Proposed,0.5347
+ML-1M,MAP,Proposed,0.9725
+ML-1M,NDCG,Proposed,1.0000
+ML-20M,Precision,Proposed,0.8455
+ML-20M,Recall,Proposed,0.5316
+ML-20M,MAP,Proposed,0.9671
+ML-20M,NDCG,Proposed,1.0000
