@@ -1,0 +1,26 @@
+dataset,BiLSTMLayer,NDCG
+MovieLens-1M,1,0.660808184
+MovieLens-1M,2,0.800252046
+MovieLens-1M,3,0.804601161
+MovieLens-1M,4,0.801604222
+MovieLens-1M,5,0.801127305
+MovieLens-20M,1,0.701112345
+MovieLens-20M,2,0.807848082
+MovieLens-20M,3,0.809567224
+MovieLens-20M,4,0.807846563
+MovieLens-20M,5,0.805193577
+Amazon-All Beauty,1,0.999057647
+Amazon-All Beauty,2,0.999330879
+Amazon-All Beauty,3,0.999367004
+Amazon-All Beauty,4,0.999318438
+Amazon-All Beauty,5,0.999358263
+Amazon-Appliances,1,0.998852865
+Amazon-Appliances,2,0.999149104
+Amazon-Appliances,3,0.999191836
+Amazon-Appliances,4,0.999137995
+Amazon-Appliances,5,0.999153437
+Amazon-Software,1,0.997019891
+Amazon-Software,2,0.997555937
+Amazon-Software,3,0.99770584
+Amazon-Software,4,0.997644494
+Amazon-Software,5,0.997605469
