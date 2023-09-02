@@ -1,0 +1,26 @@
+dataset,DenseUnit,NDCG
+MovieLens-1M,(32-1),0.800594828
+MovieLens-1M,(64-1),0.802159782
+MovieLens-1M,(128-1),0.804601161
+MovieLens-1M,(256-1),0.801348441
+MovieLens-1M,(512-1),0.802340302
+MovieLens-20M,(32-1),0.809255695
+MovieLens-20M,(64-1),0.807790091
+MovieLens-20M,(128-1),0.807987322
+MovieLens-20M,(256-1),0.809567224
+MovieLens-20M,(512-1),0.809015848
+Amazon-All Beauty,(32-1),0.999345975
+Amazon-All Beauty,(64-1),0.99930002
+Amazon-All Beauty,(128-1),0.999338287
+Amazon-All Beauty,(256-1),0.999367004
+Amazon-All Beauty,(512-1),0.999309807
+Amazon-Appliances,(32-1),0.999160482
+Amazon-Appliances,(64-1),0.999166295
+Amazon-Appliances,(128-1),0.999191836
+Amazon-Appliances,(256-1),0.999134905
+Amazon-Appliances,(512-1),0.999133646
+Amazon-Software,(32-1),0.997634464
+Amazon-Software,(64-1),0.997582102
+Amazon-Software,(128-1),0.997615996
+Amazon-Software,(256-1),0.99770584
+Amazon-Software,(512-1),0.997668999
